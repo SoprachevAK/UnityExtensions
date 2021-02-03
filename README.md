@@ -1,1 +1,4 @@
-# UnityExtensions
+# List of my extensions for Unity3D
+
+* [UnityScrollRectFix](https://github.com/SoprachevAK/UnityScrollRectFix) -- Fix standart ScrollRect component for correct calculation inerta on mobile devices
+* [CanvasScalerPS](https://github.com/SoprachevAK/CanvasScalerPS) -- Physical Constant size with scaling setting (based on screen diagonal)
