@@ -7,3 +7,4 @@
 * [AppleColorPalette](https://github.com/SoprachevAK/AppleColorPalette) -- Add colors scripts and presets from apple guidelines
   * [AppleColorPaletteMaterial](https://github.com/SoprachevAK/AppleColorPaletteMaterial) -- Add material standart shader
   * [AppleColorPaletteMaterialURP](https://github.com/SoprachevAK/AppleColorPaletteMaterialURP) -- Add material URP shader
+* [Build Number Increment](https://github.com/SoprachevAK/BuildNumberIncrement) -- Increment build number after build 
