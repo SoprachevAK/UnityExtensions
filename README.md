@@ -8,3 +8,4 @@
   * [AppleColorPaletteMaterial](https://github.com/SoprachevAK/AppleColorPaletteMaterial) -- Add material standart shader
   * [AppleColorPaletteMaterialURP](https://github.com/SoprachevAK/AppleColorPaletteMaterialURP) -- Add material URP shader
 * [Build Number Increment](https://github.com/SoprachevAK/BuildNumberIncrement) -- Increment build number after build 
+* [Device Orientation](https://github.com/SoprachevAK/DeviceOrientation) -- Different allowed orientation for phone and tablet
